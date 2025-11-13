@@ -8,9 +8,9 @@
 
 ## 📄 Портфолио (PDF версия)
 
-[📥 Скачать портфолио PDF](https://github.com/HakYouX/DanilaTychinskiy/raw/main/portfolio.pdf)
+[📥 Скачать портфолио PDF](https://github.com/HakYouX/DanilaTychinskiy/raw/main/Резюме Тычинский Д.А. DataScience-инженер.pdf)
 Или посмотреть онлайн:
-[👀 Посмотреть портфолио PDF](portfolio.pdf)
+[👀 Посмотреть портфолио PDF](Резюме Тычинский Д.А. DataScience-инженер.pdf)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
 [![Location](https://img.shields.io/badge/-📍_Russia-0D1117?style=flat)]()
