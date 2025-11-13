@@ -7,7 +7,7 @@
 **Создаю интеллектуальные системы и анализирую данные**
 
 [![Resume PDF](https://img.shields.io/badge/📄_Резюме_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Rezume.pdf)
-[![Email](https://img.shields.io/badge/📧_Email-mirav2326@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
+[![Email](https://img.shields.io/badge/📧_Email-mirav2326@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirav2326@gmail.com)
 [![Telegram](https://img.shields.io/badge/💬_Telegram-@HackYouFak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
 
 📍 Россия
@@ -101,7 +101,7 @@ Data Scientist с фокусом на машинное обучение и ан�
 
 ## 📞 Контакты
 
-- **Email:** mirav2326@mail.ru
+- **Email:** mirav2326@gmail.com
 - **Telegram:** [@HackYouFak](https://t.me/HackYouFak])
 
 ⚡ **Готов к интересным проектам в области Data Science и Machine Learning!**
