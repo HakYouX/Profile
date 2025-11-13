@@ -6,11 +6,11 @@
 
 **Создаю интеллектуальные системы и анализирую данные**
 
-## 📄 Портфолио (PDF версия)
+## 📄 Документы
 
-[📥 Скачать портфолио PDF](https://github.com/HakYouX/DanilaTychinskiy/raw/main/Резюме Тычинский Д.А. DataScience-инженер.pdf)
-Или посмотреть онлайн:
-[👀 Посмотреть портфолио PDF](Резюме Тычинский Д.А. DataScience-инженер.pdf)
+[![PDF Download](https://img.shields.io/badge/📄_Скачать_резюме_PDF-red?style=for-the-badge)](Rezume.pdf)
+[![View Online](https://img.shields.io/badge/👀_Посмотреть_онлайн-blue?style=for-the-badge)](Rezume.pdf)
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
 [![Location](https://img.shields.io/badge/-📍_Russia-0D1117?style=flat)]()
