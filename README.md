@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Я+Данила+Тычинский;Data+Scientist+🤖&center=true&size=24)
 
-```python
 class DataScientist:
     def __init__(self):
         self.name = "Данила Тычинский"
