@@ -6,6 +6,11 @@
 
 **Создаю интеллектуальные системы и анализирую данные**
 
+## 📄 Портфолио (PDF версия)
+
+[📥 Скачать портфолио PDF](https://github.com/HakYouX/DanilaTychinskiy/raw/main/portfolio.pdf)
+Или посмотреть онлайн:
+[👀 Посмотреть портфолио PDF](portfolio.pdf)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
 [![Location](https://img.shields.io/badge/-📍_Russia-0D1117?style=flat)]()
