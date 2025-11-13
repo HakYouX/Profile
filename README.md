@@ -6,9 +6,7 @@
 
 **Создаю интеллектуальные системы и анализирую данные**
 
-## 📄 Документы
-
-[![PDF Download](https://img.shields.io/badge/📄_Скачать_резюме_PDF-red?style=for-the-badge)](Rezume.pdf)
+## 📄 Резюме
 [![View Online](https://img.shields.io/badge/👀_Посмотреть_онлайн-blue?style=for-the-badge)](Rezume.pdf)
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
