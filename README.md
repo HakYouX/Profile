@@ -1,7 +1,11 @@
 # Данила Тычинский 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Меня+зовут+Данила+Тычинский;🚀+Data+Scientist+•+🤖+AI+Developer+•+📊+ML+Engineer&center=true&size=24&color=00C2FF&width=600&height=50)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&height=50&lines=Hello!+👋;I'm+Danila+Tychinskiy;Data+Scientist+🚀;AI+Developer+🤖" alt="Typing Animation" />
+
+</div>
 
 ## 🚀 Data Scientist | 🤖 AI Developer | 📊 ML Engineer
 
